@@ -58,4 +58,10 @@ here is what that means
   
   
   Execute a file
+  
   ./filename
+  
+  To check if a files permissions
+  
+  ls -lrta
+  
