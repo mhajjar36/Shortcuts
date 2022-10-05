@@ -25,9 +25,7 @@ Update getawstempcredentials
  
 * Owner: Read, Write, Execute
 * Group: Read, Write, Execute
- 
- 
-* Owner Group Other
+* Other: Read, Write, Execute
  
 * to change for the file to become executible
  
