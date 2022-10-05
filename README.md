@@ -61,7 +61,20 @@ here is what that means
   
   ./filename
   
-  To check if a files permissions
+  To check a files permissions
   
   ls -lrta
+  
+  
+  To change a files permission
+  
+  chmod u+x file name
+  
+  chmod u+x file name
+  
+  chmod u+x file name
+  
+  
+  
+  
   
