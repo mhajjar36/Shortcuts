@@ -59,11 +59,11 @@ Update getawstempcredentials
   
   To change a files permission
   
-  * chmod u+x file name
+  * For Users: chmod u=rwx myfile               
   
-  * chmod u+x file name
+  * For Group: chmod g=rwx myfile
   
-  * chmod u+x file name
+  * For Others: chmod o=rwx myfile
   
   Create a file
   * touch filename.extension
