@@ -53,7 +53,7 @@ Update getawstempcredentials
   
  *  ./filename
   
-  To check a files permissions
+  To check a files permissions in current directory
   
   * ls -lrta
   
