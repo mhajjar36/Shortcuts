@@ -14,41 +14,35 @@ Update getawstempcredentials
 * On Terminal, cd Downloads
 * ls -lrta
 * if on the left hand side it says -rw-r--r--@ 
-Owner: read write only, (not executible because there is a dash)
-Group: read only
-Other read only
+* Owner: read write only, (not executible because there is a dash)
+* Group: read only
+* Other read only
 
-here is what that means
+* here is what that means
 
--rwxrwxrwx
- OOOGGGOOO
+* -rwxrwxrwx
+*  OOOGGGOOO
  
- Owner: Read, Write, Execute
- Group: Read, Write, Execute
- 
- 
- Owner Group Other
- 
- to change for the file to become executible
- 
- chmod u+x getAWSTempCredentials
- 
- -rwxr-xr-x@ 
- 
- file is now executible
- 
- ./getAWSTempCredentials --activate
- 
- ^^^ To execute the file
+* Owner: Read, Write, Execute
+* Group: Read, Write, Execute
  
  
-
-  
-  
+* Owner Group Other
+ 
+* to change for the file to become executible
+ 
+* chmod u+x getAWSTempCredentials
+ 
+* -rwxr-xr-x@ 
+ 
+*  file is now executible
+ 
+*  ./getAWSTempCredentials --activate
+ 
+*  ^^^ To execute the file
+ 
   New Tab
   * Command + t
-  
-  
   
   Zoom In
   * Command + +
@@ -65,7 +59,6 @@ here is what that means
   
   ls -lrta
   
-  
   To change a files permission
   
   chmod u+x file name
@@ -73,6 +66,10 @@ here is what that means
   chmod u+x file name
   
   chmod u+x file name
+  
+  Create a file
+  * touch filename.extension
+  * ex.) touch miko.py
   
   
   
