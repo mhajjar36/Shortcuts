@@ -68,6 +68,10 @@ Update getawstempcredentials
   Create a file
   * touch filename.extension
   * ex.) touch miko.py
+
+
+Halt the Current Command
+* ctrl + c
   
   
   
