@@ -51,19 +51,19 @@ Update getawstempcredentials
   
   Execute a file
   
-  ./filename
+ *  ./filename
   
   To check a files permissions
   
-  ls -lrta
+  * ls -lrta
   
   To change a files permission
   
-  chmod u+x file name
+  * chmod u+x file name
   
-  chmod u+x file name
+  * chmod u+x file name
   
-  chmod u+x file name
+  * chmod u+x file name
   
   Create a file
   * touch filename.extension
