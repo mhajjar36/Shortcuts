@@ -9,6 +9,9 @@ zsh: command not found: pip
   * command + S to save
   
 Update getawstempcredentials
+brew upgrade sreawshelpers
+
+
 * go to https://github.com/massmutual/sre-aws-helpers/blob/master/bin/getAWSTempCredentials
 * download the file to your Downloads folder
 * On Terminal, cd Downloads
