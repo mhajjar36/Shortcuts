@@ -3,6 +3,9 @@
 Install a software
 * brew install software_name
 
+Find a path in Finder
+* command + shift + g
+
 zsh: command not found: pip
   * open ~/.zshrc
   * add your edits
