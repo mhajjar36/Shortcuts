@@ -6,6 +6,11 @@ Install a software
 Find a path in Finder
 * command + shift + g
 
+Copy file path in Finder
+* right click or two finger click file on finder
+* while in right-click menu hold down the OPTIONS key
+* select copy "file" as pathname
+
 zsh: command not found: pip
   * open ~/.zshrc
   * add your edits
