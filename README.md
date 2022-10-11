@@ -18,7 +18,7 @@ zsh: command not found: pip
   
 Update getawstempcredentials
 
-* brew upgrade sreawshelpers
+* brew upgrade sre-aws-helpers
 
 OR Manual Method
 
