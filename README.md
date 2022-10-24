@@ -85,6 +85,12 @@ OR Manual Method
 
 Halt the Current Command
 * ctrl + c
+
+
+Test a webhook
+* sudo curl -X POST -H 'Content-type: application/json' --data '{"text":"Testing Webhook Hello World!"}' https://hooks.slack.com/services/T01L44B6VNH/B04495Y4E02/UH8lC2bo2yUmjHvV8M3y
+
+* Replace this webhook url with your webhook url
   
   
   
